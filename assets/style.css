@@ -370,3 +370,11 @@ textarea:focus {
 	outline: 2px solid #1C6474;
 	outline-offset: 2px;
 }
+#contact {
+    color: #000;
+}
+
+#contact a {
+    color: #000;
+    text-decoration: underline;
+}
