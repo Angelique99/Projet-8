@@ -31,6 +31,7 @@ body {
 
 .nav li {
 	padding-inline: 10px;
+	cursor: pointer;
 }
 
 .nav a {
@@ -125,6 +126,7 @@ body {
 	height: 100%;
 	object-fit: cover;
 	padding: .5em;
+	cursor: pointer;
 }
 .mg-prev, .mg-next {
 	width: 30px;
